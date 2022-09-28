@@ -1,2 +1,2 @@
 # Github-Action-Practice
-Practising adding 2 variable using Github action 
+Practising adding 2 variables using Github action 
